@@ -1,1 +1,1 @@
-# Mastering-Embeded-Linux-Programming-zh
+# 注意到本书已经有了中译的出版《精通嵌入式Linux编程》，可以移步学习～
